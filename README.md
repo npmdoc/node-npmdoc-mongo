@@ -1,4 +1,7 @@
-# api documentation for  mongo (v0.1.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongo)
+# npmdoc-mongo
+
+#### basic api documentation for  mongo (v0.1.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-mongo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-mongo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-mongo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-mongo)
+
 #### A thin wrapper for the mongodb library
 
 [![NPM](https://nodei.co/npm/mongo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongo)
@@ -47,7 +50,8 @@
     ],
     "name": "mongo",
     "optionalDependencies": {},
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
